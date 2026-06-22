@@ -13,6 +13,16 @@ h3{
     color: rgb(138, 123, 202);
 }
 
+p{
+    font-family:'Lucida Sans';
+    text-align: center;
+    color: rgb(92, 33, 146);
+    height: 35px;
+    
+    
+
+}
+
 #div-form-pessoa, #div-lista-pessoas{
     width:100%;
     padding:5px;
